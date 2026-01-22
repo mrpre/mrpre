@@ -1,0 +1,33 @@
+name: Update Linux Kernel Contributions
+
+on:
+  schedule:
+    # 每天 UTC 0 点跑一次
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 支持手动触发
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update README with Linux contributions
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_linux_contrib.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Linux kernel contributions" && git push)
