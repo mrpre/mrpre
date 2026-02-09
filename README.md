@@ -17,7 +17,7 @@ Total commits to [torvalds/linux](https://github.com/torvalds/linux): **46**
 - [`3cf41edc2067`](https://github.com/torvalds/linux/commit/3cf41edc2067de9265f9f58b905317723c59a0c7) mm/vmscan: skip increasing kswapd_failures when reclaim was boosted (2025-10-24)
 - [`f85981327a90`](https://github.com/torvalds/linux/commit/f85981327a90c51e76f60e073cb6648b2f167226) selftests/bpf: Fix incorrect array size calculation (2025-09-09)
 
-<sub>Last updated: 2026-02-08 02:43 UTC</sub>
+<sub>Last updated: 2026-02-09 02:28 UTC</sub>
 <!-- LINUX_CONTRIB_END -->
 
 ## Contact
