@@ -17,7 +17,7 @@ Total commits to [torvalds/linux](https://github.com/torvalds/linux): **49**
 - [`c77b3b79a92e`](https://github.com/torvalds/linux/commit/c77b3b79a92e3345aa1ee296180d1af4e7031f8f) mptcp: Fix proto fallback detection with BPF (2025-11-11)
 - [`fbade4bd08ba`](https://github.com/torvalds/linux/commit/fbade4bd08ba52cbc74a71c4e86e736f059f99f7) mptcp: Disallow MPTCP subflows from sockmap (2025-11-11)
 
-<sub>Last updated: 2026-02-11 02:34 UTC</sub>
+<sub>Last updated: 2026-02-12 02:28 UTC</sub>
 <!-- LINUX_CONTRIB_END -->
 
 ## Contact
