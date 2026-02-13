@@ -2,7 +2,7 @@
 <!-- LINUX_CONTRIB_START -->
 ### 🐧 Linux Kernel Contributions
 
-Total commits to [torvalds/linux](https://github.com/torvalds/linux): **52**
+Total commits to [torvalds/linux](https://github.com/torvalds/linux): **54**
 
 **Recent 10 commits:**
 
@@ -13,11 +13,11 @@ Total commits to [torvalds/linux](https://github.com/torvalds/linux): **52**
 - [`17e2ce02bf56`](https://github.com/torvalds/linux/commit/17e2ce02bf5669dfa659976e93d409228cba98f9) selftests/bpf: Add tests for FIONREAD and copied_seq (2026-01-24)
 - [`929e30f93125`](https://github.com/torvalds/linux/commit/929e30f9312514902133c45e51c79088421ab084) bpf, sockmap: Fix FIONREAD for sockmap (2026-01-24)
 - [`b40cc5adaa80`](https://github.com/torvalds/linux/commit/b40cc5adaa80e1471095a62d78233b611d7a558c) bpf, sockmap: Fix incorrect copied_seq calculation (2026-01-24)
+- [`a45088376d8a`](https://github.com/torvalds/linux/commit/a45088376d8a847a5e3b1982fcfceb41644e3b1d) mm/vmscan: add tracepoint and reason for kswapd_failures reset (2026-01-20)
+- [`dc9fe9b7056a`](https://github.com/torvalds/linux/commit/dc9fe9b7056a44ad65715def880e7d91d32c047f) mm/vmscan: mitigate spurious kswapd_failures reset from direct reclaim (2026-01-20)
 - [`5fcd5513072b`](https://github.com/torvalds/linux/commit/5fcd5513072b09f6533e22a779183fa2818bce81) arm64: mm: Fix incomplete tag reset in change_memory_common() (2026-01-04)
-- [`1adaea51c61b`](https://github.com/torvalds/linux/commit/1adaea51c61b52e24e7ab38f7d3eba023b2d050d) ipv6: fix a BUG in rt6_get_pcpu_route() under PREEMPT_RT (2025-12-23)
-- [`007f5da43b3d`](https://github.com/torvalds/linux/commit/007f5da43b3d0ecff972e2616062b8da1f862f5e) mm/kasan: fix incorrect unpoisoning in vrealloc for KASAN (2025-12-04)
 
-<sub>Last updated: 2026-02-12 06:57 UTC</sub>
+<sub>Last updated: 2026-02-13 02:30 UTC</sub>
 <!-- LINUX_CONTRIB_END -->
 
 ## Contact
