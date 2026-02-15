@@ -17,7 +17,7 @@ Total commits to [torvalds/linux](https://github.com/torvalds/linux): **54**
 - [`dc9fe9b7056a`](https://github.com/torvalds/linux/commit/dc9fe9b7056a44ad65715def880e7d91d32c047f) mm/vmscan: mitigate spurious kswapd_failures reset from direct reclaim (2026-01-20)
 - [`5fcd5513072b`](https://github.com/torvalds/linux/commit/5fcd5513072b09f6533e22a779183fa2818bce81) arm64: mm: Fix incomplete tag reset in change_memory_common() (2026-01-04)
 
-<sub>Last updated: 2026-02-14 02:11 UTC</sub>
+<sub>Last updated: 2026-02-15 02:29 UTC</sub>
 <!-- LINUX_CONTRIB_END -->
 
 ## Contact
