@@ -17,7 +17,7 @@ AUTHOR_EMAILS = [
     "jiayuan.chen@linux.dev",
 ]
 REPO = "torvalds/linux"
-DISPLAY_RECENT = 10  # 展示最近多少条
+DISPLAY_RECENT = 15  # 展示最近多少条
 
 # README 中的标记，脚本会替换这两个标记之间的内容
 START_MARKER = "<!-- LINUX_CONTRIB_START -->"
