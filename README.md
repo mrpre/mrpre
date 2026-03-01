@@ -22,7 +22,7 @@ Total commits to [torvalds/linux](https://github.com/torvalds/linux): **56**
 - [`007f5da43b3d`](https://github.com/torvalds/linux/commit/007f5da43b3d0ecff972e2616062b8da1f862f5e) mm/kasan: fix incorrect unpoisoning in vrealloc for KASAN (2025-12-04)
 - [`cb730e4ac1b4`](https://github.com/torvalds/linux/commit/cb730e4ac1b4dca09d364fd83464ebd29547a4ef) selftests/bpf: Add mptcp test with sockmap (2025-11-11)
 
-<sub>Last updated: 2026-02-28 02:02 UTC</sub>
+<sub>Last updated: 2026-03-01 02:32 UTC</sub>
 <!-- LINUX_CONTRIB_END -->
 
 ## Contact
