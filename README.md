@@ -2,10 +2,12 @@
 <!-- LINUX_CONTRIB_START -->
 ### 🐧 Linux Kernel Contributions
 
-Total commits to [torvalds/linux](https://github.com/torvalds/linux): **56**
+Total commits to [torvalds/linux](https://github.com/torvalds/linux): **58**
 
 **Recent 15 commits:**
 
+- [`1872e75375c4`](https://github.com/torvalds/linux/commit/1872e75375c40add4a35990de3be77b5741c252c) bpf: Fix race in devmap on PREEMPT_RT (2026-02-25)
+- [`869c63d5975d`](https://github.com/torvalds/linux/commit/869c63d5975d55e97f6b168e885452b3da20ea47) bpf: Fix race in cpumap on PREEMPT_RT (2026-02-25)
 - [`ca220141fa8e`](https://github.com/torvalds/linux/commit/ca220141fa8ebae09765a242076b2b77338106b0) kcm: fix zero-frag skb in frag_list on partial sendmsg error (2026-02-19)
 - [`308e7e4d0a84`](https://github.com/torvalds/linux/commit/308e7e4d0a846359685f40aade023aee7b27284c) serial: caif: fix use-after-free in caif_serial ldisc_close() (2026-02-06)
 - [`81b84de32bb2`](https://github.com/torvalds/linux/commit/81b84de32bb27ae1ae2eb9acf0420e9d0d14bf00) xfrm: fix ip_rt_bug race in icmp_route_lookup reverse path (2026-02-06)
@@ -19,10 +21,8 @@ Total commits to [torvalds/linux](https://github.com/torvalds/linux): **56**
 - [`dc9fe9b7056a`](https://github.com/torvalds/linux/commit/dc9fe9b7056a44ad65715def880e7d91d32c047f) mm/vmscan: mitigate spurious kswapd_failures reset from direct reclaim (2026-01-20)
 - [`5fcd5513072b`](https://github.com/torvalds/linux/commit/5fcd5513072b09f6533e22a779183fa2818bce81) arm64: mm: Fix incomplete tag reset in change_memory_common() (2026-01-04)
 - [`1adaea51c61b`](https://github.com/torvalds/linux/commit/1adaea51c61b52e24e7ab38f7d3eba023b2d050d) ipv6: fix a BUG in rt6_get_pcpu_route() under PREEMPT_RT (2025-12-23)
-- [`007f5da43b3d`](https://github.com/torvalds/linux/commit/007f5da43b3d0ecff972e2616062b8da1f862f5e) mm/kasan: fix incorrect unpoisoning in vrealloc for KASAN (2025-12-04)
-- [`cb730e4ac1b4`](https://github.com/torvalds/linux/commit/cb730e4ac1b4dca09d364fd83464ebd29547a4ef) selftests/bpf: Add mptcp test with sockmap (2025-11-11)
 
-<sub>Last updated: 2026-03-01 02:32 UTC</sub>
+<sub>Last updated: 2026-03-02 02:22 UTC</sub>
 <!-- LINUX_CONTRIB_END -->
 
 ## Contact
