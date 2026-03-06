@@ -2,10 +2,15 @@
 <!-- LINUX_CONTRIB_START -->
 ### 🐧 Linux Kernel Contributions
 
-Total commits to [torvalds/linux](https://github.com/torvalds/linux): **58**
+Total commits to [torvalds/linux](https://github.com/torvalds/linux): **63**
 
 **Recent 15 commits:**
 
+- [`46c1ef0cfcea`](https://github.com/torvalds/linux/commit/46c1ef0cfcea50aaf0b52316fdab94bf4b45795b) selftests: net: add test for IPv4 route with loopback IPv6 nexthop (2026-03-04)
+- [`21ec92774d15`](https://github.com/torvalds/linux/commit/21ec92774d1536f71bdc90b0e3d052eff99cf093) net: ipv6: fix panic when IPv4 route references loopback IPv6 nexthop (2026-03-04)
+- [`181cafbd8a01`](https://github.com/torvalds/linux/commit/181cafbd8a01d22f3078a84f079c4a7cc0653068) selftests/bpf: add test for xdp_bonding xmit_hash_policy compat (2026-02-26)
+- [`479d589b40b8`](https://github.com/torvalds/linux/commit/479d589b40b836442bbdadc3fdb37f001bb67f26) bpf/bonding: reject vlan+srcmac xmit_hash_policy change when XDP is loaded (2026-02-26)
+- [`101bacb303e8`](https://github.com/torvalds/linux/commit/101bacb303e89dc2e0640ae6a5e0fb97c4eb45bb) atm: lec: fix null-ptr-deref in lec_arp_clear_vccs (2026-02-25)
 - [`1872e75375c4`](https://github.com/torvalds/linux/commit/1872e75375c40add4a35990de3be77b5741c252c) bpf: Fix race in devmap on PREEMPT_RT (2026-02-25)
 - [`869c63d5975d`](https://github.com/torvalds/linux/commit/869c63d5975d55e97f6b168e885452b3da20ea47) bpf: Fix race in cpumap on PREEMPT_RT (2026-02-25)
 - [`ca220141fa8e`](https://github.com/torvalds/linux/commit/ca220141fa8ebae09765a242076b2b77338106b0) kcm: fix zero-frag skb in frag_list on partial sendmsg error (2026-02-19)
@@ -16,13 +21,8 @@ Total commits to [torvalds/linux](https://github.com/torvalds/linux): **58**
 - [`1799d8abeabc`](https://github.com/torvalds/linux/commit/1799d8abeabc68ec05679292aaf6cba93b343c05) xfrm6: fix uninitialized saddr in xfrm6_get_saddr() (2026-01-27)
 - [`17e2ce02bf56`](https://github.com/torvalds/linux/commit/17e2ce02bf5669dfa659976e93d409228cba98f9) selftests/bpf: Add tests for FIONREAD and copied_seq (2026-01-24)
 - [`929e30f93125`](https://github.com/torvalds/linux/commit/929e30f9312514902133c45e51c79088421ab084) bpf, sockmap: Fix FIONREAD for sockmap (2026-01-24)
-- [`b40cc5adaa80`](https://github.com/torvalds/linux/commit/b40cc5adaa80e1471095a62d78233b611d7a558c) bpf, sockmap: Fix incorrect copied_seq calculation (2026-01-24)
-- [`a45088376d8a`](https://github.com/torvalds/linux/commit/a45088376d8a847a5e3b1982fcfceb41644e3b1d) mm/vmscan: add tracepoint and reason for kswapd_failures reset (2026-01-20)
-- [`dc9fe9b7056a`](https://github.com/torvalds/linux/commit/dc9fe9b7056a44ad65715def880e7d91d32c047f) mm/vmscan: mitigate spurious kswapd_failures reset from direct reclaim (2026-01-20)
-- [`5fcd5513072b`](https://github.com/torvalds/linux/commit/5fcd5513072b09f6533e22a779183fa2818bce81) arm64: mm: Fix incomplete tag reset in change_memory_common() (2026-01-04)
-- [`1adaea51c61b`](https://github.com/torvalds/linux/commit/1adaea51c61b52e24e7ab38f7d3eba023b2d050d) ipv6: fix a BUG in rt6_get_pcpu_route() under PREEMPT_RT (2025-12-23)
 
-<sub>Last updated: 2026-03-05 02:21 UTC</sub>
+<sub>Last updated: 2026-03-06 02:12 UTC</sub>
 <!-- LINUX_CONTRIB_END -->
 
 ## Contact
