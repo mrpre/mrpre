@@ -22,7 +22,7 @@ Total commits to [torvalds/linux](https://github.com/torvalds/linux): **63**
 - [`17e2ce02bf56`](https://github.com/torvalds/linux/commit/17e2ce02bf5669dfa659976e93d409228cba98f9) selftests/bpf: Add tests for FIONREAD and copied_seq (2026-01-24)
 - [`929e30f93125`](https://github.com/torvalds/linux/commit/929e30f9312514902133c45e51c79088421ab084) bpf, sockmap: Fix FIONREAD for sockmap (2026-01-24)
 
-<sub>Last updated: 2026-03-11 02:09 UTC</sub>
+<sub>Last updated: 2026-03-12 02:22 UTC</sub>
 <!-- LINUX_CONTRIB_END -->
 
 ## Contact
