@@ -2,10 +2,11 @@
 <!-- LINUX_CONTRIB_START -->
 ### 🐧 Linux Kernel Contributions
 
-Total commits to [torvalds/linux](https://github.com/torvalds/linux): **63**
+Total commits to [torvalds/linux](https://github.com/torvalds/linux): **64**
 
 **Recent 15 commits:**
 
+- [`950803f72547`](https://github.com/torvalds/linux/commit/950803f7254721c1c15858fbbfae3deaaeeecb11) bonding: fix type confusion in bond_setup_by_slave() (2026-03-06)
 - [`46c1ef0cfcea`](https://github.com/torvalds/linux/commit/46c1ef0cfcea50aaf0b52316fdab94bf4b45795b) selftests: net: add test for IPv4 route with loopback IPv6 nexthop (2026-03-04)
 - [`21ec92774d15`](https://github.com/torvalds/linux/commit/21ec92774d1536f71bdc90b0e3d052eff99cf093) net: ipv6: fix panic when IPv4 route references loopback IPv6 nexthop (2026-03-04)
 - [`181cafbd8a01`](https://github.com/torvalds/linux/commit/181cafbd8a01d22f3078a84f079c4a7cc0653068) selftests/bpf: add test for xdp_bonding xmit_hash_policy compat (2026-02-26)
@@ -20,9 +21,8 @@ Total commits to [torvalds/linux](https://github.com/torvalds/linux): **63**
 - [`83b67cc9be92`](https://github.com/torvalds/linux/commit/83b67cc9be9223183caf91826d9c194d7fb128fa) linkwatch: use __dev_put() in callers to prevent UAF (2026-02-01)
 - [`1799d8abeabc`](https://github.com/torvalds/linux/commit/1799d8abeabc68ec05679292aaf6cba93b343c05) xfrm6: fix uninitialized saddr in xfrm6_get_saddr() (2026-01-27)
 - [`17e2ce02bf56`](https://github.com/torvalds/linux/commit/17e2ce02bf5669dfa659976e93d409228cba98f9) selftests/bpf: Add tests for FIONREAD and copied_seq (2026-01-24)
-- [`929e30f93125`](https://github.com/torvalds/linux/commit/929e30f9312514902133c45e51c79088421ab084) bpf, sockmap: Fix FIONREAD for sockmap (2026-01-24)
 
-<sub>Last updated: 2026-03-12 02:22 UTC</sub>
+<sub>Last updated: 2026-03-13 02:13 UTC</sub>
 <!-- LINUX_CONTRIB_END -->
 
 ## Contact
