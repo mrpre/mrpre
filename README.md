@@ -2,10 +2,12 @@
 <!-- LINUX_CONTRIB_START -->
 ### 🐧 Linux Kernel Contributions
 
-Total commits to [torvalds/linux](https://github.com/torvalds/linux): **64**
+Total commits to [torvalds/linux](https://github.com/torvalds/linux): **66**
 
 **Recent 15 commits:**
 
+- [`6d5e4538364b`](https://github.com/torvalds/linux/commit/6d5e4538364b9ceb1ac2941a4deb86650afb3538) net/smc: fix NULL dereference and UAF in smc_tcp_syn_recv_sock() (2026-03-12)
+- [`e1f0a18c9564`](https://github.com/torvalds/linux/commit/e1f0a18c9564cdb16523c802e2c6fe5874e3d944) net/rose: fix NULL pointer dereference in rose_transmit_link on reconnect (2026-03-11)
 - [`950803f72547`](https://github.com/torvalds/linux/commit/950803f7254721c1c15858fbbfae3deaaeeecb11) bonding: fix type confusion in bond_setup_by_slave() (2026-03-06)
 - [`46c1ef0cfcea`](https://github.com/torvalds/linux/commit/46c1ef0cfcea50aaf0b52316fdab94bf4b45795b) selftests: net: add test for IPv4 route with loopback IPv6 nexthop (2026-03-04)
 - [`21ec92774d15`](https://github.com/torvalds/linux/commit/21ec92774d1536f71bdc90b0e3d052eff99cf093) net: ipv6: fix panic when IPv4 route references loopback IPv6 nexthop (2026-03-04)
@@ -19,10 +21,8 @@ Total commits to [torvalds/linux](https://github.com/torvalds/linux): **64**
 - [`81b84de32bb2`](https://github.com/torvalds/linux/commit/81b84de32bb27ae1ae2eb9acf0420e9d0d14bf00) xfrm: fix ip_rt_bug race in icmp_route_lookup reverse path (2026-02-06)
 - [`ae88a5d2f29b`](https://github.com/torvalds/linux/commit/ae88a5d2f29b69819dc7b04086734439d074a643) net: atm: fix crash due to unvalidated vcc pointer in sigd_send() (2026-02-05)
 - [`83b67cc9be92`](https://github.com/torvalds/linux/commit/83b67cc9be9223183caf91826d9c194d7fb128fa) linkwatch: use __dev_put() in callers to prevent UAF (2026-02-01)
-- [`1799d8abeabc`](https://github.com/torvalds/linux/commit/1799d8abeabc68ec05679292aaf6cba93b343c05) xfrm6: fix uninitialized saddr in xfrm6_get_saddr() (2026-01-27)
-- [`17e2ce02bf56`](https://github.com/torvalds/linux/commit/17e2ce02bf5669dfa659976e93d409228cba98f9) selftests/bpf: Add tests for FIONREAD and copied_seq (2026-01-24)
 
-<sub>Last updated: 2026-03-19 02:28 UTC</sub>
+<sub>Last updated: 2026-03-20 02:21 UTC</sub>
 <!-- LINUX_CONTRIB_END -->
 
 ## Contact
