@@ -2,7 +2,7 @@
 <!-- LINUX_CONTRIB_START -->
 ### 🐧 Linux Kernel Contributions
 
-Total commits to [torvalds/linux](https://github.com/torvalds/linux): **66**
+Total commits to [torvalds/linux](https://github.com/torvalds/linux): **67**
 
 **Recent 15 commits:**
 
@@ -20,9 +20,9 @@ Total commits to [torvalds/linux](https://github.com/torvalds/linux): **66**
 - [`308e7e4d0a84`](https://github.com/torvalds/linux/commit/308e7e4d0a846359685f40aade023aee7b27284c) serial: caif: fix use-after-free in caif_serial ldisc_close() (2026-02-06)
 - [`81b84de32bb2`](https://github.com/torvalds/linux/commit/81b84de32bb27ae1ae2eb9acf0420e9d0d14bf00) xfrm: fix ip_rt_bug race in icmp_route_lookup reverse path (2026-02-06)
 - [`ae88a5d2f29b`](https://github.com/torvalds/linux/commit/ae88a5d2f29b69819dc7b04086734439d074a643) net: atm: fix crash due to unvalidated vcc pointer in sigd_send() (2026-02-05)
-- [`83b67cc9be92`](https://github.com/torvalds/linux/commit/83b67cc9be9223183caf91826d9c194d7fb128fa) linkwatch: use __dev_put() in callers to prevent UAF (2026-02-01)
+- [`455ce986fa35`](https://github.com/torvalds/linux/commit/455ce986fa356ff43a43c0d363ba95fa152f21d5) serial: core: fix infinite loop in handle_tx() for PORT_UNKNOWN (2026-02-04)
 
-<sub>Last updated: 2026-03-20 02:21 UTC</sub>
+<sub>Last updated: 2026-03-21 02:08 UTC</sub>
 <!-- LINUX_CONTRIB_END -->
 
 ## Contact
