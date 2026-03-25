@@ -1,10 +1,10 @@
 
 <!-- LINUX_CONTRIB_START -->
-### 🐧 Linux Kernel Contributions
+### My Linux Kernel Contributions
 
 Total commits to [torvalds/linux](https://github.com/torvalds/linux): **67**
 
-**Recent 15 commits:**
+**Recent 10 commits:**
 
 - [`6d5e4538364b`](https://github.com/torvalds/linux/commit/6d5e4538364b9ceb1ac2941a4deb86650afb3538) net/smc: fix NULL dereference and UAF in smc_tcp_syn_recv_sock() (2026-03-12)
 - [`e1f0a18c9564`](https://github.com/torvalds/linux/commit/e1f0a18c9564cdb16523c802e2c6fe5874e3d944) net/rose: fix NULL pointer dereference in rose_transmit_link on reconnect (2026-03-11)
@@ -16,12 +16,7 @@ Total commits to [torvalds/linux](https://github.com/torvalds/linux): **67**
 - [`101bacb303e8`](https://github.com/torvalds/linux/commit/101bacb303e89dc2e0640ae6a5e0fb97c4eb45bb) atm: lec: fix null-ptr-deref in lec_arp_clear_vccs (2026-02-25)
 - [`1872e75375c4`](https://github.com/torvalds/linux/commit/1872e75375c40add4a35990de3be77b5741c252c) bpf: Fix race in devmap on PREEMPT_RT (2026-02-25)
 - [`869c63d5975d`](https://github.com/torvalds/linux/commit/869c63d5975d55e97f6b168e885452b3da20ea47) bpf: Fix race in cpumap on PREEMPT_RT (2026-02-25)
-- [`ca220141fa8e`](https://github.com/torvalds/linux/commit/ca220141fa8ebae09765a242076b2b77338106b0) kcm: fix zero-frag skb in frag_list on partial sendmsg error (2026-02-19)
-- [`308e7e4d0a84`](https://github.com/torvalds/linux/commit/308e7e4d0a846359685f40aade023aee7b27284c) serial: caif: fix use-after-free in caif_serial ldisc_close() (2026-02-06)
-- [`81b84de32bb2`](https://github.com/torvalds/linux/commit/81b84de32bb27ae1ae2eb9acf0420e9d0d14bf00) xfrm: fix ip_rt_bug race in icmp_route_lookup reverse path (2026-02-06)
-- [`ae88a5d2f29b`](https://github.com/torvalds/linux/commit/ae88a5d2f29b69819dc7b04086734439d074a643) net: atm: fix crash due to unvalidated vcc pointer in sigd_send() (2026-02-05)
-- [`455ce986fa35`](https://github.com/torvalds/linux/commit/455ce986fa356ff43a43c0d363ba95fa152f21d5) serial: core: fix infinite loop in handle_tx() for PORT_UNKNOWN (2026-02-04)
 
-<sub>Last updated: 2026-03-25 02:27 UTC</sub>
+<sub>Last updated: 2026-03-25 06:06 UTC</sub>
 <!-- LINUX_CONTRIB_END -->
 
