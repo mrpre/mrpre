@@ -25,6 +25,3 @@ Total commits to [torvalds/linux](https://github.com/torvalds/linux): **67**
 <sub>Last updated: 2026-03-25 02:27 UTC</sub>
 <!-- LINUX_CONTRIB_END -->
 
-## Contact
-
-- 📫 Email: mrpre@163.com
