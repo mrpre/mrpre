@@ -17,6 +17,6 @@ Total commits to [torvalds/linux](https://github.com/torvalds/linux): **67**
 - [`1872e75375c4`](https://github.com/torvalds/linux/commit/1872e75375c40add4a35990de3be77b5741c252c) bpf: Fix race in devmap on PREEMPT_RT (2026-02-25)
 - [`869c63d5975d`](https://github.com/torvalds/linux/commit/869c63d5975d55e97f6b168e885452b3da20ea47) bpf: Fix race in cpumap on PREEMPT_RT (2026-02-25)
 
-<sub>Last updated: 2026-03-25 06:06 UTC</sub>
+<sub>Last updated: 2026-03-26 02:33 UTC</sub>
 <!-- LINUX_CONTRIB_END -->
 
