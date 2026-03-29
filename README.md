@@ -17,6 +17,6 @@ Total commits to [torvalds/linux](https://github.com/torvalds/linux): **69**
 - [`479d589b40b8`](https://github.com/torvalds/linux/commit/479d589b40b836442bbdadc3fdb37f001bb67f26) bpf/bonding: reject vlan+srcmac xmit_hash_policy change when XDP is loaded (2026-02-26)
 - [`101bacb303e8`](https://github.com/torvalds/linux/commit/101bacb303e89dc2e0640ae6a5e0fb97c4eb45bb) atm: lec: fix null-ptr-deref in lec_arp_clear_vccs (2026-02-25)
 
-<sub>Last updated: 2026-03-28 02:26 UTC</sub>
+<sub>Last updated: 2026-03-29 02:38 UTC</sub>
 <!-- LINUX_CONTRIB_END -->
 
