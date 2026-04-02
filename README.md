@@ -17,6 +17,6 @@ Total commits to [torvalds/linux](https://github.com/torvalds/linux): **70**
 - [`181cafbd8a01`](https://github.com/torvalds/linux/commit/181cafbd8a01d22f3078a84f079c4a7cc0653068) selftests/bpf: add test for xdp_bonding xmit_hash_policy compat (2026-02-26)
 - [`479d589b40b8`](https://github.com/torvalds/linux/commit/479d589b40b836442bbdadc3fdb37f001bb67f26) bpf/bonding: reject vlan+srcmac xmit_hash_policy change when XDP is loaded (2026-02-26)
 
-<sub>Last updated: 2026-04-01 02:47 UTC</sub>
+<sub>Last updated: 2026-04-02 02:32 UTC</sub>
 <!-- LINUX_CONTRIB_END -->
 
