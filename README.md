@@ -17,6 +17,6 @@ Total commits to [torvalds/linux](https://github.com/torvalds/linux): **71**
 - [`21ec92774d15`](https://github.com/torvalds/linux/commit/21ec92774d1536f71bdc90b0e3d052eff99cf093) net: ipv6: fix panic when IPv4 route references loopback IPv6 nexthop (2026-03-04)
 - [`181cafbd8a01`](https://github.com/torvalds/linux/commit/181cafbd8a01d22f3078a84f079c4a7cc0653068) selftests/bpf: add test for xdp_bonding xmit_hash_policy compat (2026-02-26)
 
-<sub>Last updated: 2026-04-03 02:33 UTC</sub>
+<sub>Last updated: 2026-04-04 02:25 UTC</sub>
 <!-- LINUX_CONTRIB_END -->
 
